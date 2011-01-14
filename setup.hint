@@ -1,4 +1,4 @@
 category: KDE
-requires: krunner ksmserver plasma libattica0 libcln6 libgcc1 libkdecore5 libkexiv2_8 libkpim4 libkworkspace4 libnepomuk4 libphonon4 libplasma3 libqalculate5 libqimageblitz4 libQtCore4 libQtDBus4 libQtGui4 libQtNetwork4 libQtSql4 libQtSvg4 libQtWebKit4 libQtXml4 libqwt5 libsoprano4 libstdc++6 libX11_6 libXrender1 libXtst6
+requires: krunner ksmserver plasma libattica0 libcln6 libgcc1 libkdecore5 libkexiv2_8 libkpim4 libkworkspace4 libphonon4 libplasma3 libqalculate5 libqimageblitz4 libQtCore4 libQtDBus4 libQtGui4 libQtNetwork4 libQtSql4 libQtSvg4 libQtWebKit4 libQtXml4 libqwt5 libsoprano4 libstdc++6 libX11_6 libXrender1 libXtst6
 sdesc: "Additional KDE plasma widgets"
 ldesc: "Additional KDE plasma widgets"
