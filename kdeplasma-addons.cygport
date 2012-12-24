@@ -1,0 +1,9 @@
+inherit kde4
+
+NAME="kdeplasma-addons"
+VERSION=4.8.5
+RELEASE=1
+CATEGORY="KDE"
+SUMMARY="Additional KDE plasma widgets"
+DESCRIPTION="Additional KDE plasma widgets"
+REQUIRES="krunner ksmserver plasma"

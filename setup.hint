@@ -1,4 +1,0 @@
-category: KDE
-requires: krunner ksmserver plasma libattica0 libcln6 libdbusmenu-qt2 libgcc1 libglib2.0_0 libibus1.0_0 libkdecore5 libkexiv2_10 libkpim4 libkworkspace4 libmarblewidget13 libphonon4 libplasma3 libqalculate5 libqca2 libqimageblitz4 libQtCore4 libQtDBus4 libQtGui4 libQtNetwork4 libQtSvg4 libQtWebKit4 libQtXml4 libqwt5 libstdc++6 libX11_6 libXrender1 libXtst6
-sdesc: "Additional KDE plasma widgets"
-ldesc: "Additional KDE plasma widgets"
