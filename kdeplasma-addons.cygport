@@ -1,8 +1,8 @@
-inherit kde4
+inherit kf5
 
 NAME="kdeplasma-addons"
-VERSION=4.14.3
-RELEASE=3
+VERSION=5.8.5
+RELEASE=1
 CATEGORY="KDE"
 SUMMARY="Additional KDE plasma widgets"
 DESCRIPTION="Additional KDE plasma widgets"
